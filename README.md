@@ -10,7 +10,7 @@ NOTE: We'd appreciate if you didn't rehost Aurora (because they're ashamed of it
 3) Create a **config.json** file based off the **config.json.template** file to suite your needs. 
 3) Edit the DefaultEngine.ini file with the correct port for your XMPP configuration. 
 4) Start the node script.
-5) Profit!
+5) Done!
 
 ## Issues
 
