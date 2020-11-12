@@ -2,7 +2,7 @@
 
 This repo includes the backend code for Aurora, with accounts, parties, XMPP, and more. 
 
-NOTE: We'd appreciate if you didn't rehost Aurora (because they're ashamed of it), using it in a localhost environment is fine, and credit would be appreciated, thanks!
+NOTE: We'd appreciate if you didn't rehost Aurora (because we're ashamed of it), using it in a localhost environment is fine, and credit would be appreciated, thanks!
 
 ## Installation
 1) Install MongoDB from [here](https://www.mongodb.com/try/download/community).
