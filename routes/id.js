@@ -19,11 +19,10 @@ var tokens = {}
 app.use(cookieParser())
 
 /**
- * Virgin Slayer v2.0
- * Created to stop virgins (makks, kemo, fuck all) from getting into our servers and spamming the fuck out of it.
+ * Bot Slayer v2.0
  * @param {String} gcaptcha 
  */
-function virginSlayerv2(gcaptcha) {
+function Slayerv2(gcaptcha) {
     return new Promise((resolve, reject) => {
         request.post("https://www.google.com/recaptcha/api/siteverify", {json: true, form: {
             secret: "insert captha here",
@@ -52,8 +51,8 @@ app.post("/api/register", async (req, res) => {
     })
 
     /*
-    var bIsVirgin = await virginSlayerv2(req.body.captcha)
-    if (!bIsVirgin) return res.status(400).json({
+    var bIs = await Slayerv2(req.body.captcha)
+    if (!bIs) return res.status(400).json({
         error: "Recaptcha response is invalid.",
         errorCode: "dev.aurorafn.id.register.invalid_captcha",
         statusCode: 400

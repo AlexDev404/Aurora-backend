@@ -22,7 +22,7 @@ app.get("/api/pages/fortnite-game", async (req, res) => {
                         tabTitleOverride: "Aurora",
                         _type: "CommonUI Simple Message MOTD",
                         title: "Aurora",
-                        body: "Welcome to Aurora, a private server created by Slushia (@Slushia) & Cyuubi (@uguuNatalie). We are now open source! https://github.com/AuroraFN/backend",
+                        body: "Welcome to Aurora, a Fortnite private server",
                         videoLoop: false,
                         videoStreamingEnabled: false,
                         sortingPriority: 0,
@@ -42,7 +42,7 @@ app.get("/api/pages/fortnite-game", async (req, res) => {
                         _type: "CommonUI Simple Message Base",
                         subgame: "br",
                         title: "Aurora",
-                        body: "Credits: Slushia (@Slushia) and Cyuubi (@uguuNatalie)\nGitHub: https://github.com/AuroraFN/backend",
+                        body: "",
                         spotlight: true
                     }
                 ]
