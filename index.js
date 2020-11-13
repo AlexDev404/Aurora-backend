@@ -68,6 +68,7 @@ setInterval(() => {
 
 app.listen(process.env.port || config.port || 80, () => {
     logging.fdev(`Aurora Matchmaking Server Version \x1b[36m${serverversion}`)
+    logging.fdev(`Noobs... Am I right? Lmao XD`)
     logging.fdev(`Listening on port \x1b[36m${process.env.port || config.port || 80}`)
     logging.fdev(`XMPP listening on port \x1b[36m${process.env.xmppPort || config.xmppPort || 443}`)
 })
