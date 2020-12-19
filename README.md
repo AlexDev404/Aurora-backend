@@ -23,5 +23,5 @@ NOTE: We'd appreciate if you rehosted and forked Aurora, credit would be appreci
 [GNU](https://choosealicense.com/licenses/gpl-3.0/)
 
 ###### ALSO CHECK OUT OUR REHOST ON FOSSHUB, GOOGLE DRIVE AND GITLAB
-_fork my friends! Fork! Fork!_
+> "_fork my friends! Fork! Fork!_"
 
