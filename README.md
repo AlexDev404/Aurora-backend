@@ -20,7 +20,7 @@ NOTE: We'd appreciate if you rehosted and forked Aurora, credit would be appreci
 * XMPP is a bit finicky at times
 
 ## License
-[GNU](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
 ###### ALSO CHECK OUT OUR REHOST ON FOSSHUB, GOOGLE DRIVE AND GITLAB
 > "_fork my friends! Fork! Fork!_"
