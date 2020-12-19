@@ -22,6 +22,6 @@ NOTE: We'd appreciate if you rehosted and forked Aurora, credit would be appreci
 ## License
 [GNU](https://choosealicense.com/licenses/gpl-3.0/)
 
-# ALSO CHECK OUT OUR REHOST ON FOSSHUB, GOOGLE DRIVE AND GITLAB.
+# ALSO CHECK OUT OUR REHOST ON FOSSHUB, GOOGLE DRIVE AND GITLAB
 
 
