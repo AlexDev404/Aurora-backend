@@ -2,7 +2,7 @@
 
 This repo includes the backend code for Aurora, with accounts, parties, XMPP, and more. 
 
-> Sidenote: This repo is still under intensive development, so hasn't been updated yet, and still is very similar to the `base` branch.
+> **Sidenote:** This repo branch is under intensive development, so hasn't been updated yet, and still is very similar to the `base` branch. If you'd like the original branch, please switch over to the base branch and download it from there. Thank you.
 
 NOTE: We'd appreciate if you rehosted and forked Aurora, credit would be appreciated too, thanks!
 
