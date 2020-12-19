@@ -1,6 +1,8 @@
-# Aurora Backend
+# Aurora Backend - But Better ;)
 
 This repo includes the backend code for Aurora, with accounts, parties, XMPP, and more. 
+
+> Sidenote: This repo is still under intensive development, so hasn't been updated yet, and still is very similar to the `base` branch.
 
 NOTE: We'd appreciate if you rehosted and forked Aurora, credit would be appreciated too, thanks!
 
